@@ -3,5 +3,3 @@
   reverse_words = string.split(",")
   puts reverse_words.reverse
   end
-
-
